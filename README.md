@@ -1,6 +1,6 @@
-# Python and Data Science Practice
+# Python Data Science Journey
 
-This repository is a collection of my Python and Data Science practice — where I dive into coding challenges, explore new problems, and work on real-world applications. It’s not about shortcuts, but about consistent practice, curiosity, and sharpening problem-solving skills.
+This repository is a record of my journey in Python and Data Science — where I take on coding challenges, explore real-world problems, and sharpen my skills through consistent practice. It’s not about shortcuts, but about discipline, curiosity, and growth.
 
 ## What you’ll find here
 - Clean, well-documented Python code
@@ -9,7 +9,8 @@ This repository is a collection of my Python and Data Science practice — where
 - Notes and learnings from each step
 
 ## Why this repo exists
-This is my way of building mastery through disciplined practice. Each commit reflects progress — from fundamentals to advanced applications — with a focus on writing clear, professional code.
+This is my way of building mastery through hands-on practice. Each commit reflects progress — from fundamentals to advanced applications — with a focus on writing clear, professional, and reproducible code.
 
 ---
-💡 *Passion for data, code, and problem-solving — one step at a time.*
+💡 *A consistent journey of data, code, and problem-solving.*
+
